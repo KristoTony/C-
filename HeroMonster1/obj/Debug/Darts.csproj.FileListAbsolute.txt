@@ -1,0 +1,4 @@
+D:\KRISTO\HeroMonster1\bin\Debug\HeroMonster1.dll
+D:\KRISTO\HeroMonster1\bin\Debug\HeroMonster1.pdb
+D:\KRISTO\HeroMonster1\obj\Debug\HeroMonster1.dll
+D:\KRISTO\HeroMonster1\obj\Debug\HeroMonster1.pdb
